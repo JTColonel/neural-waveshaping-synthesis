@@ -24,7 +24,7 @@ noise_synth/TimeDistributedMLP.depth = 4
 noise_synth/FIRNoiseSynth.ir_length = 256
 noise_synth/FIRNoiseSynth.hop_length = %control_hop
 
-Reverb.length_in_seconds = 2
+Reverb.length_in_seconds = 1
 Reverb.sr = %sample_rate
 
 
